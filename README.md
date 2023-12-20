@@ -1,5 +1,5 @@
 # city-data-com-corpus-scripts
-City-Data.com Corpus Python Recipes
+## City-Data.com Corpus Python Recipes
 
 This repository contains Python recipes to process and topic model the [City-Data.com Corpus](https://zenodo.org/records/10086354) (Omizo, 2023).
 
